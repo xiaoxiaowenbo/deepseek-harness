@@ -262,6 +262,16 @@
     - id: ui-attachment
       name: '@deepseek-ai/dsh-client-ui-attachment'
 
+    # User-defined scheduled tasks: the automation conversation view, the
+    # in-browser scheduler, and execution records pushed to the notification center.
+    - id: ui-automation
+      name: '@deepseek-ai/dsh-client-ui-automation'
+
+    # Notification center: the sidebar-foot bell and persisted message store
+    # automation outcomes are pushed into.
+    - id: ui-notification
+      name: '@deepseek-ai/dsh-client-ui-notification'
+
     # Tool call tree, generic fallback, and keyed business Tool views.
     - id: ui-tool
       name: '@deepseek-ai/dsh-client-ui-tool'
