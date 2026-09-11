@@ -1,0 +1,164 @@
+packages/client/ui-automation/tests/automation.client.spec.ts
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-286
+packages/client/ui-notification/src/client/service.ts
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-87
+packages/client/ui-automation/src/client/store.ts
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-79
+.agents/notes/implemented/feature/2026-07-26-ptc-live-parallel-dispatch.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+packages/client/ui-notification/src/css-modules.d.ts
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-6
+packages/client/ui-notification/tests/NotificationBell.client.spec.tsx
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-102
+scripts/tmp-d2.jsonl
+  s_6cd0af8989a7ab::t_be303748437ea5 1-183
+scripts/tmp-okg.jsonl
+  s_6cd0af8989a7ab::t_70b386ad64f9d4 1-29
+  s_6cd0af8989a7ab::t_ee874ef678a649 30
+.agents/notes/implemented/feature/2026-07-12-subagent-persona-tool-filter-and-depth.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+.agents/notes/implemented/feature/2026-06-15-ptc.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+.agents/notes/implemented/feature/2026-09-04-web-clickable-link-styles.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+.agents/notes/implemented/feature/2026-07-20-ptc-typed-tool-returns.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+.agents/notes/implemented/feature/2026-06-18-compaction-capability-seam.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+packages/client/ui-notification/src/client/locales.ts
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-35
+.agents/notes/implemented/feature/2026-08-04-claude-code-and-codex-subagent-backends.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+packages/client/ui-notification/tests/notification.client.spec.ts
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-146
+.agents/notes/implemented/feature/2026-07-19-model-facing-goal-tools.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+.agents/notes/implemented/feature/2026-08-05-agent-teams.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+packages/client/ui-notification/src/client/store.ts
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-49
+scripts/tmp-d3.jsonl
+  s_6cd0af8989a7ab::t_be303748437ea5 1-88
+packages/client/ui-notification/src/client/NotificationBell.tsx
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-161
+packages/client/ui-automation/src/client/AutomationPage.tsx
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-334
+packages/client/ui-automation/src/client/index.ts
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-67
+packages/client/ui-automation/src/index.ts
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-4
+.agents/notes/implemented/feature/2026-08-06-continuable-subagent-interrupt.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+packages/client/ui-notification/package.json
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-68
+scripts/tmp-ok3.jsonl
+  s_6cd0af8989a7ab::t_6950cb226f41a1 1-88
+.agents/notes/implemented/feature/2026-08-31-cross-process-session-write-lease.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+.agents/notes/implemented/feature/2026-08-25-promote-open-anywhere-plugin.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+.agents/notes/implemented/feature/2026-07-06-sandbox.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+scripts/tmp-ok2.jsonl
+  s_6cd0af8989a7ab::t_6950cb226f41a1 1-38
+packages/client/ui-notification/tsdown.config.ts
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-3
+scripts/tmp-d4.jsonl
+  s_6cd0af8989a7ab::t_be303748437ea5 1-292
+.agents/notes/implemented/feature/2026-09-05-sidebar-text-preview-and-file-tree.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+.agents/notes/implemented/feature/2026-07-07-mcp-client-plugin.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+scripts/tmp-out2.jsonl
+  s_6cd0af8989a7ab::t_5d64d0e20d7c41 1-14
+.agents/notes/implemented/feature/2026-08-11-minimal-profiles-bare-two-tool-runtime.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+scripts/tmp-out.jsonl
+  s_6cd0af8989a7ab::t_c0ed7e7fe2ff96 1-183
+packages/client/ui-notification/src/index.ts
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-4
+.agents/notes/implemented/feature/2026-09-10-web-all-interfaces-bind.zh.md
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-23
+packages/client/ui-notification/tsconfig.json
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-33
+packages/client/ui-automation/src/client/AutomationPage.module.css
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-493
+packages/client/ui-notification/src/client/NotificationBell.module.css
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-232
+scripts/tmp-decode-session.ts
+  s_6cd0af8989a7ab::t_6f56855018a03e 3-5,8,13-20
+  s_6cd0af8989a7ab::t_259573c9af395d 1-2,6-7,9-12
+.agents/notes/implemented/feature/2026-09-10-web-all-interfaces-bind.md
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-23
+scripts/tmp-d1.jsonl
+  s_6cd0af8989a7ab::t_be303748437ea5 1-38
+.agents/notes/implemented/feature/2026-08-15-product-subagent-noninteractive-permissions.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+packages/core/system-prompt/src/index.ts
+  s_6cd0af8989a7ab::t_b8fe21d3c3e041 325-327
+packages/client/ui-automation/src/client/locales.ts
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-111
+scripts/tmp-ok1.jsonl
+  s_6cd0af8989a7ab::t_6950cb226f41a1 1-183
+packages/client/ui-automation/src/client/service.ts
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-261
+packages/client/ui-automation/src/client/cron.ts
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-145
+packages/client/ui-primitives/src/ParkLogo.tsx
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-23
+.agents/notes/implemented/feature/2026-09-10-web-all-interfaces-bind.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-6
+scripts/tmp-out3.jsonl
+  s_6cd0af8989a7ab::t_1a7f82b2b2430b 1-372
+scripts/tmp-fail.jsonl
+  s_6cd0af8989a7ab::t_ac00487f1fbb6e 1
+.agents/notes/implemented/feature/2026-07-31-even-out-shipped-tool-rosters.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+packages/client/ui-notification/src/client/index.ts
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-52
+packages/client/ui-automation/tsdown.config.ts
+  s_6cd0af8989a7ab::t_c981ef5b58f575 1-3
+packages/client/ui-automation/src/css-modules.d.ts
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 1-5
+packages/client/ui-automation/package.json
+  s_6cd0af8989a7ab::t_c981ef5b58f575 1-72
+.agents/notes/implemented/feature/2026-09-04-right-sidebar-docking-infrastructure.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+scripts/tmp-ok4.jsonl
+  s_6cd0af8989a7ab::t_6950cb226f41a1 1-292
+scripts/tmp-scan-sessions.ts
+  s_6cd0af8989a7ab::t_c5f7898fb72320 1,3,5,7-9,11-12,28,30-32,34-39,48
+  s_6cd0af8989a7ab::t_3db30a142eb29e 2,4,6,10,13-27,29,33,40-47
+.agents/notes/implemented/feature/2026-07-16-harness-level-loop.i18n.yaml
+  s_6cd0af8989a7ab::t_ff42b6cd3e1db9 5-6
+packages/client/ui-automation/tsconfig.json
+  s_6cd0af8989a7ab::t_c981ef5b58f575 1-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "7a3256a8a6a3bb3f2a2ab8e5be48908a6fd96320",
+  "prompts": {},
+  "sessions": {
+    "s_6cd0af8989a7ab": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6aa272be9325765db216a82d",
+        "model": "deepseek_v4_flash_official__dev"
+      },
+      "human_author": "肖文博 <xiaowb@hanwei.cn>",
+      "custom_attributes": {
+        "session_id": "6aa272be9325765db216a82d",
+        "runtime_client": "trae-tob-git-ai",
+        "operation_id": "6aa387619325765db216b1b3",
+        "tool_name": "RunCommand",
+        "source_scene": "agent",
+        "tool_use_id": "6aa387619325765db216b1b3",
+        "edit_kind": "bash",
+        "client_type": "ide",
+        "display_model_name": "DeepSeek-V4-Flash 正式版",
+        "external_session_id": "6aa272be9325765db216a82d"
+      }
+    }
+  }
+}
