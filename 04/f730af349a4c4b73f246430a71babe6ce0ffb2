@@ -1,0 +1,81 @@
+packages/client/ui-conversation/tests/skeleton.client.spec.tsx
+  s_6cd0af8989a7ab::t_25517e0980182d 331,478,512,544
+packages/client/locale/src/locales/en.ts
+  s_6cd0af8989a7ab::t_25517e0980182d 33
+packages/client/ui-brand-official/src/client/Brand.tsx
+  s_6cd0af8989a7ab::t_25517e0980182d 1,7,10
+packages/bundle/web-app/cordis.patch.yml
+  s_6cd0af8989a7ab::t_25517e0980182d 265-274
+.agents/notes/implemented/architecture/2026-08-24-browser-token-authentication.md
+  s_6cd0af8989a7ab::t_25517e0980182d 23
+packages/client/ui-conversation/src/client/locales.ts
+  s_6cd0af8989a7ab::t_25517e0980182d 79,245
+packages/bundle/web-app/src/startup.ts
+  s_6cd0af8989a7ab::t_25517e0980182d 51,60,66-69
+.agents/notes/implemented/architecture/2026-07-28-api-browser-trust-boundary.md
+  s_6cd0af8989a7ab::t_25517e0980182d 9,29
+apps/web/index.html
+  s_6cd0af8989a7ab::t_25517e0980182d 8
+apps/web/public/manifest.webmanifest
+  s_6cd0af8989a7ab::t_25517e0980182d 3-4
+packages/client/ui-primitives/src/index.ts
+  s_6cd0af8989a7ab::t_25517e0980182d 30
+tsconfig.base.json
+  s_6cd0af8989a7ab::t_25517e0980182d 220-221
+apps/web/public/favicon.svg
+  s_6cd0af8989a7ab::t_25517e0980182d 1-7
+packages/bundle/web-app/package.json
+  s_6cd0af8989a7ab::t_25517e0980182d 58,73
+packages/client/ui-sidebar/src/client/SidebarRoot.tsx
+  s_6cd0af8989a7ab::t_25517e0980182d 22,192,220
+apps/web/tests/built-boot.expected.e2e.ts
+  s_6cd0af8989a7ab::t_25517e0980182d 75
+packages/client/ui-brand-official/tests/browser-plugin.client.spec.tsx
+  s_6cd0af8989a7ab::t_25517e0980182d 87,89
+apps/web/vite.config.ts
+  s_6cd0af8989a7ab::t_25517e0980182d 12,25
+packages/client/ui-sidebar/tests/sidebar-root.client.spec.tsx
+  s_6cd0af8989a7ab::t_25517e0980182d 122,142,157
+packages/client/locale/src/locales/zh.ts
+  s_6cd0af8989a7ab::t_25517e0980182d 31
+.agents/notes/implemented/architecture/2026-07-28-api-browser-trust-boundary.zh.md
+  s_6cd0af8989a7ab::t_25517e0980182d 9,29
+apps/cli/tests/built-bin.e2e.ts
+  s_6cd0af8989a7ab::t_25517e0980182d 359,363-366
+.agents/notes/implemented/architecture/2026-08-24-browser-token-authentication.zh.md
+  s_6cd0af8989a7ab::t_25517e0980182d 23
+packages/client/ui-conversation/src/client/skeleton/EmptyHero.tsx
+  s_6cd0af8989a7ab::t_25517e0980182d 6,83-84,86
+tsconfig.client.json
+  s_6cd0af8989a7ab::t_25517e0980182d 104-105
+packages/bundle/web-app/tests/startup.spec.ts
+  s_6cd0af8989a7ab::t_25517e0980182d 142,144-151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "04f730af349a4c4b73f246430a71babe6ce0ffb2",
+  "prompts": {},
+  "sessions": {
+    "s_6cd0af8989a7ab": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6aa272be9325765db216a82d",
+        "model": "deepseek_v4_flash_official__dev"
+      },
+      "human_author": "肖文博 <xiaowb@hanwei.cn>",
+      "custom_attributes": {
+        "tool_use_id": "6aa387619325765db216b1b3",
+        "session_id": "6aa272be9325765db216a82d",
+        "operation_id": "6aa387619325765db216b1b3",
+        "client_type": "ide",
+        "external_session_id": "6aa272be9325765db216a82d",
+        "tool_name": "RunCommand",
+        "source_scene": "agent",
+        "display_model_name": "DeepSeek-V4-Flash 正式版",
+        "runtime_client": "trae-tob-git-ai",
+        "edit_kind": "bash"
+      }
+    }
+  }
+}
