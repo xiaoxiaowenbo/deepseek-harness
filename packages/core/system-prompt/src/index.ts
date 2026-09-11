@@ -322,6 +322,9 @@ function interpolate(
   kind: 'section' | 'context',
 ): string {
   const text = input.text
+  if (typeof text !== 'string') {
+    throw new TypeError(`prompt ${kind} "${input.name}" resolved to ${typeof text} (${JSON.stringify(text)}) instead of a string`)
+  }
   let result = ''
   let last = 0
   for (let open = text.indexOf('{{'); open >= 0; open = text.indexOf('{{', last)) {

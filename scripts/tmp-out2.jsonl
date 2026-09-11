@@ -1,0 +1,14 @@
+﻿frames: 4
+{"type":"session","version":3,"id":"session-7c95e74a-9f4d-43ab-aa55-32a95e3a9fc3","createdAt":1789096371085,"cwd":"D:\\windoc\\desktop\\3","isSeeded":false,"delegationDepth":0,"agentPreset":"standard"}
+{"type":"permission/preset","seq":0,"time":1789096372670,"data":{"preset":"workspace-write"}}
+{"type":"sandbox/mode","seq":1,"time":1789096372672,"data":{"mode":"workspace-write"}}
+{"type":"approval/policy","seq":2,"time":1789096372673,"data":{"policy":"ask"}}
+{"type":"agent/inbox/spliced","seq":3,"time":1789097089139,"data":{"target":"next-turn","start":0,"inserted":[{"content":[{"type":"text","text":"园区概况"}],"source":{"kind":"user","rpcId":"9f8ca3db-058c-4e8f-ac6d-c6e967985cff","clientTimeZone":"Asia/Shanghai"},"role":"user","id":"129c1628-0731-4131-ba53-a062455ba151"}]}}
+{"type":"turn/start","seq":4,"time":1789097089140,"data":{"turn":1}}
+{"type":"agent/inbox/spliced","seq":5,"time":1789097089141,"data":{"target":"next-turn","start":0,"removedCount":1,"inserted":[]}}
+{"type":"turn/end","seq":6,"time":1789097089146,"data":{"turn":1,"reason":{"kind":"error","error":{"message":"text.indexOf is not a function","code":"UNKNOWN"}}}}
+{"type":"agent/inbox/spliced","seq":7,"time":1789097099935,"data":{"target":"next-turn","start":0,"inserted":[{"content":[{"type":"text","text":"你好"}],"source":{"kind":"user","rpcId":"4471b2f7-5c05-42dc-ae22-567fc5abe313","clientTimeZone":"Asia/Shanghai"},"role":"user","id":"baa2355b-d665-4e07-bbd4-a17f60479ac5"}]}}
+{"type":"turn/start","seq":8,"time":1789097099936,"data":{"turn":2}}
+{"type":"agent/inbox/spliced","seq":9,"time":1789097099938,"data":{"target":"next-turn","start":0,"removedCount":1,"inserted":[]}}
+{"type":"turn/end","seq":10,"time":1789097099941,"data":{"turn":2,"reason":{"kind":"error","error":{"message":"text.indexOf is not a function","code":"UNKNOWN"}}}}
+
